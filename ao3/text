@@ -1,0 +1,98 @@
+<!doctype html>
+<link rel="stylesheet" href="ao3style.css">
+<html lang="en">
+<head>
+  <style>
+  </style>
+  <script>
+  </script>
+</head>
+
+<header>
+    <a href="/"><img src="ao3_logo.png"></img></a>
+    <button class="action" style="float:right; border:none;
+    background: rgb(255, 255, 255);">Log In</button>
+</header>
+<div class="topnav">
+    <div class="dropdown">
+      <button class="dropbtn">Fandoms</button>
+      <div class="dropdown-content">
+        <a href="#">All fandoms</a>
+        <a href="#">Anime & Manga</a>
+        <a href="#">Books & Literature</a>
+        <a href="#">Cartoons & Comics & Graphic Novels</a>
+        <a href="#">Celebrties & Real People</a>
+        <a href="#">Movies</a>
+        <a href="#">Music & Bands</a>
+        <a href="#">Other Media</a>
+        <a href="#">Theater</a>
+        <a href="#">TV Shows</a>
+        <a href="#">Video Games</a>
+        <a href="#">Uncategorized Fandoms</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Browse</button>
+      <div class="dropdown-content">
+        <a href="#">Works</a>
+        <a href="#">Bookmarks</a>
+        <a href="#">Tags</a>
+        <a href="#">Collections</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">Search</button>
+      <div class="dropdown-content">
+        <a href="#">Works</a>
+        <a href="#">Bookmarks</a>
+        <a href="#">Tags</a>
+        <a href="#">People</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button class="dropbtn">About</button>
+      <div class="dropdown-content">
+        <a href="#">About Us</a>
+        <a href="#">News</a>
+        <a href="#">FAQ</a>
+        <a href="#">Wrangling Guidelines</a>
+        <a href="#">Donate or volunteer</a>
+      </div>
+    </div>
+    <div class="search-container">
+      <input type="text" placeholder="" name="search">
+      <button class="action">Search</button>
+    </div>
+  </div>
+<div class="clear"></div>
+<section>
+    <div class="leftpane">
+        <div></div>
+        <h3 class = heading>Find your favorites</h3>
+        <div>
+            <a href="#">All fandoms</a>
+            <a href="#">Anime & Manga</a>
+            <a href="#">Books & Literature</a>
+            <a href="#">Cartoons & Comics & Graphic Novels</a>
+            <a href="#">Celebrties & Real People</a>
+            <a href="#">Movies</a>
+            <a href="#">Music & Bands</a>
+            <a href="#">Other Media</a>
+            <a href="#">Theater</a>
+            <a href="#">TV Shows</a>
+            <a href="#">Video Games</a>
+            <a href="#">Uncategorized Fandoms</a>
+        <h3>News</h3>
+        </div>
+        <div></div>
+    </div>
+    <div class="rightpane">
+      
+    </div>
+    
+</section>
+
+
+<footer>
+    
+</footer>
